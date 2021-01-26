@@ -1,0 +1,46 @@
+{
+  "packages": 
+  [
+    {
+      "name":"YACOREArduino",
+      "maintainer":"EDWINE",
+      "websiteURL":"http://101.132.98.59/yacorearduino",
+      "email":"zhangzzpcxxy@163.com",
+      "help":
+      {
+        "online":"http://101.132.98.59/yacorearduino"
+      },
+      "platforms":
+      [ 
+        {
+          "name":"YACOREArduino",
+          "architecture":"yacore",
+          "version":"1.0.0",
+          "category":"FPGA",
+          "url":"https://gitee.com/zhangzzp/yacorearduino/blob/master/riscv-none-embed-gcc.zip",
+          "archiveFileName":"riscv-none-embed-gcc.zip",
+          "checksum":"SHA-256:8c6c457e4bd15e9aefdd2affeea1ade260e7596f2f55940db67b129dadd14e1f",
+          "size":"9447788",
+          "help":
+          {
+            "online":"http://www.nxlab.fer.hr/fpgarduino"
+          },
+          "boards":
+          [ 
+            {
+              "name":"FPGA"
+            }
+          ],
+          "toolsDependencies":
+          [
+            
+          ]
+        } 
+      ],
+      "tools": 
+      [
+              
+      ]
+    } 
+  ]
+}
