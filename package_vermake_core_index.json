@@ -37,6 +37,12 @@
                 "packager": "YACORE_RISCV",
                 "version": "1.0.0",
                 "name": "Yacore_upload"
+            },
+        
+            {
+              "packager": "YACORE_RISCV",
+              "version": "1.0.0",
+              "name": "Yacore_compiler"
             }
           ]
         } 
