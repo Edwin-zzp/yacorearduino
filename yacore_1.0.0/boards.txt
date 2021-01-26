@@ -1,0 +1,24 @@
+############################################################
+# YACORE RISC V
+############################################################
+
+
+STEP.name=TCORE MAX10 Board (Intel 10M50DAF484C7G)
+
+STEP.platform=Yacore
+STEP.build.board=_BOARD_TCORE_MAX10_
+
+STEP.build.extra_flags = -march=rv32im -mabi=ilp32 -static -mcmodel=medany -fvisibility=hidden -nostdlib -nostartfiles --std=gnu99
+STEP.compiler.c.extra_flags= 
+STEP.compiler.cpp.extra_flags= 
+STEP.ld.extra_flags = 
+
+
+STEP.upload.maximum_size=4194304
+STEP.upload.speed=115200
+STEP.upload.tool=Yacore_upload
+
+STEP.build.mcu=Yacore
+STEP.build.core=Yacore
+STEP.build.variant=generic
+
