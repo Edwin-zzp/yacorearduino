@@ -55,7 +55,7 @@
             "systems": [
               {
                 "host": "i686-mingw32",
-                "url": "https://github.com/PulseRain/Arduino_RISCV_IDE/raw/master/package/Yacore_upload_2.1.0.tar.gz",
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_upload_2.1.0.tar.gz",
                 "archiveFileName": "Yacore_upload_2.1.0.tar.gz",
                 "checksum": "SHA-256:4eafa097f0c6818db3f3355ab324268c0876b72f35a78a6881bfe71cf55ef316",
                 "size": "6035446"
