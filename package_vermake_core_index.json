@@ -34,13 +34,13 @@
           "toolsDependencies":
           [
             {
-                "packager": "YACORE_RISCV",
+                "packager": "YACOREArduino",
                 "version": "1.0.0",
                 "name": "Yacore_upload"
             },
         
             {
-              "packager": "YACORE_RISCV",
+              "packager": "YACOREArduino",
               "version": "1.0.0",
               "name": "Yacore_compiler"
             }
