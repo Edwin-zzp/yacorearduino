@@ -64,7 +64,7 @@
         },
         {
             "version": "1.0.0",
-            "name": "Ycore_compiler",
+            "name": "Yacore_compiler",
             "systems": [
               {
                 "host": "i686-mingw32",
