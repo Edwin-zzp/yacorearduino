@@ -36,6 +36,12 @@
             {
                 "packager": "YACOREArduino",
                 "version": "1.0.0",
+                "name": "Yacore_binsize"
+            },
+
+            {
+                "packager": "YACOREArduino",
+                "version": "1.0.0",
                 "name": "Yacore_upload"
             },
         
@@ -49,6 +55,19 @@
       ],
       "tools": 
       [
+        {
+            "version": "1.0.0",
+            "name": "Yacore_binsize",
+            "systems": [
+              {
+                "host": "i686-mingw32",
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_binsize_1.0.0.zip",
+                "archiveFileName": "Yacore_binsize_1.0.0.zip",
+                "checksum": "SHA-256:2bd1b104bad26d82002286ba02d469be08539539a7d966335316b367f109ffe0",
+                "size": "6274976"
+              }
+            ]
+        },  
         {
             "version": "1.0.0",
             "name": "Yacore_upload",
