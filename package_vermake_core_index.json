@@ -19,8 +19,8 @@
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/yacore_1.0.0.zip",
           "archiveFileName":"yacore_1.0.0.zip",
-          "checksum":"SHA-256:c6fcc5f7bc0b967c0df897e53a34f938b0b58cb94460e79888a5bd2cb120b767",
-          "size":"20128",
+          "checksum":"SHA-256:2e378702476718b9f6cc162781d9f1a605d49549b574ad07813592947d7afc9f",
+          "size":"20124",
           "help":
           {
             "online":"http://www.verimake.com"
@@ -76,8 +76,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_upload_1.0.0.tar.bz2",
                 "archiveFileName": "Yacore_upload_1.0.0.tar.bz2",
-                "checksum": "SHA-256:ac10f1005f1b1a065069740aa2d757aee6662dfed3a509af7f50cc7a63a50e92",
-                "size": "19126303"
+                "checksum": "SHA-256:815fd7bc10d7f0b362d51298c5a0c2053176661b0ec9a8a014f2207cfb61754f",
+                "size": "19125161"
               }
             ]
         },
