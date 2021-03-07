@@ -19,8 +19,8 @@
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/yacore_1.0.0.zip",
           "archiveFileName":"yacore_1.0.0.zip",
-          "checksum":"SHA-256:2e378702476718b9f6cc162781d9f1a605d49549b574ad07813592947d7afc9f",
-          "size":"20124",
+          "checksum":"SHA-256:6d7fb862d9af19c76eecff0a8f5050111b5301e737142ceb0e2d87b8a6542e0b",
+          "size":"20131",
           "help":
           {
             "online":"http://www.verimake.com"
