@@ -61,10 +61,10 @@
             "systems": [
               {
                 "host": "i686-mingw32",
-                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_binsize_1.0.0.zip",
-                "archiveFileName": "Yacore_binsize_1.0.0.zip",
-                "checksum": "SHA-256:2bd1b104bad26d82002286ba02d469be08539539a7d966335316b367f109ffe0",
-                "size": "6274976"
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_binsize_1.0.0.tar.bz2",
+                "archiveFileName": "Yacore_binsize_1.0.0.tar.bz2",
+                "checksum": "SHA-256:06cb2e9cdadeed1f09f55f397b97b0ae9f08d518c06606eb928ad76c02599a31",
+                "size": "6345380"
               }
             ]
         },  
@@ -74,10 +74,10 @@
             "systems": [
               {
                 "host": "i686-mingw32",
-                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_upload_1.0.0.zip",
-                "archiveFileName": "Yacore_upload_1.0.0.zip",
-                "checksum": "SHA-256:1d14b171d5496ddab3255bbb2917e8fcb88375c630d4e8271ce7501f12865f13",
-                "size": "146562"
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/Yacore_upload_1.0.0.tar.bz2",
+                "archiveFileName": "Yacore_upload_1.0.0.tar.bz2",
+                "checksum": "SHA-256:a13b92bbc80aa7aefba247d86d01af1b8eea1982c07c6a2b3066e13b5258761f",
+                "size": "139075"
               }
             ]
         },
