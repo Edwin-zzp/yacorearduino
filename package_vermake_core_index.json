@@ -2,7 +2,7 @@
   "packages": 
   [
     {
-      "name":"YACOREArduino",
+      "name":"Yadan Core",
       "maintainer":"EDWINE",
       "websiteURL":"http://101.132.98.59/yacorearduino",
       "email":"zhangzzpcxxy@163.com",
@@ -13,13 +13,13 @@
       "platforms":
       [ 
         {
-          "name":"YACOREArduino",
-          "architecture":"yacore",
+          "name":"Yadan Core",
+          "architecture":"yadancore",
           "version":"1.0.0",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/yacorearduino/master/yacore_1.0.0.zip",
           "archiveFileName":"yacore_1.0.0.zip",
-          "checksum":"SHA-256:08aa151c8c73886e243dc48bbf01848b5a19a0a686f23a35570aa5c65c86695e",
+          "checksum":"SHA-256:7dc87091e7a444eab3d9c14fbe5465a62d6df1feb160e5f6f7fa249adfca5000",
           "size":"20124",
           "help":
           {
@@ -28,25 +28,25 @@
           "boards":
           [ 
             {
-              "name":"Yacore_FPGA"
+              "name":"Yadancore_FPGA"
             }
           ],
           "toolsDependencies":
           [
             {
-                "packager": "YACOREArduino",
+                "packager": "Yadan Core",
                 "version": "1.0.0",
                 "name": "Yacore_binsize"
             },
 
             {
-                "packager": "YACOREArduino",
+                "packager": "Yadan Core",
                 "version": "1.0.0",
                 "name": "Yacore_upload"
             },
         
             {
-              "packager": "YACOREArduino",
+              "packager": "Yadan Core",
               "version": "1.0.0",
               "name": "Yacore_compiler"
             }
