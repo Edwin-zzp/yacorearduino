@@ -2,7 +2,7 @@
   "packages": 
   [
     {
-      "name":"Yadan Core",
+      "name":"Yadan_Core",
       "maintainer":"EDWINE",
       "websiteURL":"http://101.132.98.59/yacorearduino",
       "email":"zhangzzpcxxy@163.com",
@@ -13,7 +13,7 @@
       "platforms":
       [ 
         {
-          "name":"Yadan Core",
+          "name":"Yadan_Core",
           "architecture":"yadancore",
           "version":"1.0.0",
           "category":"FPGA",
@@ -34,19 +34,19 @@
           "toolsDependencies":
           [
             {
-                "packager": "Yadan Core",
+                "packager": "Yadan_Core",
                 "version": "1.0.0",
                 "name": "Yacore_binsize"
             },
 
             {
-                "packager": "Yadan Core",
+                "packager": "Yadan_Core",
                 "version": "1.0.0",
                 "name": "Yacore_upload"
             },
         
             {
-              "packager": "Yadan Core",
+              "packager": "Yadan_Core",
               "version": "1.0.0",
               "name": "Yacore_compiler"
             }
